@@ -1,0 +1,5 @@
+go to chrome://flags/ 
+
+change from "Default" to "Disabled" 
+- Omnibox UI Hide Steady-State URL Scheme 
+- Omnibox UI Hide Steady-State URL Trivial Subdomains 
